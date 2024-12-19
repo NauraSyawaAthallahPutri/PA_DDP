@@ -1,0 +1,236 @@
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {100000}
+Total saldo E-Money anda sekarang adalah Rp. 100000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {2000000}
+Total saldo E-Money anda sekarang adalah Rp. 2000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {500000}
+Total saldo E-Money anda sekarang adalah Rp. 500000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {500000}
+Total saldo E-Money anda sekarang adalah Rp. 1000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {500000}
+Total saldo E-Money anda sekarang adalah Rp. 500000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {500000}
+Total saldo E-Money anda sekarang adalah Rp. 500000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {500000}
+Total saldo E-Money anda sekarang adalah Rp. 500000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {500000}
+Total saldo E-Money anda sekarang adalah Rp. 1000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {7000000}
+Total saldo E-Money anda sekarang adalah Rp. 7000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {7000000}
+Total saldo E-Money anda sekarang adalah Rp. 7000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {3000000}
+Total saldo E-Money anda sekarang adalah Rp. 3000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {3000000}
+Total saldo E-Money anda sekarang adalah Rp. 3000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {7000000}
+Total saldo E-Money anda sekarang adalah Rp. 6740000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {3000000}
+Total saldo E-Money anda sekarang adalah Rp. 3000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {500000}
+Total saldo E-Money anda sekarang adalah Rp. 1370000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {500000}
+Total saldo E-Money anda sekarang adalah Rp. 1870000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {3000000}
+Total saldo E-Money anda sekarang adalah Rp. -16390000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {7000000}
+Total saldo E-Money anda sekarang adalah Rp. -16390000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {7000000}
+Total saldo E-Money anda sekarang adalah Rp. 7000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {7000000}
+Total saldo E-Money anda sekarang adalah Rp. 7000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {7000000}
+Total saldo E-Money anda sekarang adalah Rp. 7000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {2000000}
+Total saldo E-Money anda sekarang adalah Rp. 2000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {3000000}
+Total saldo E-Money anda sekarang adalah Rp. 5000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {1000000}
+Total saldo E-Money anda sekarang adalah Rp. 1000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {2000000}
+Total saldo E-Money anda sekarang adalah Rp. 2000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {7000000}
+Total saldo E-Money anda sekarang adalah Rp. 7000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {3000000}
+Total saldo E-Money anda sekarang adalah Rp. 3000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {3000000}
+Total saldo E-Money anda sekarang adalah Rp. 3000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {7000000}
+Total saldo E-Money anda sekarang adalah Rp. 7000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {3000000}
+Total saldo E-Money anda sekarang adalah Rp. 3000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {2000000}
+Total saldo E-Money anda sekarang adalah Rp. 2000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {3000000}
+Total saldo E-Money anda sekarang adalah Rp. 3000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {1000000}
+Total saldo E-Money anda sekarang adalah Rp. 1000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {2000000}
+Total saldo E-Money anda sekarang adalah Rp. 2000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {2000000}
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {2000000}
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {2000000}
+Total saldo E-Money anda sekarang adalah Rp. 2000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {10000000}
+Total saldo E-Money anda sekarang adalah Rp. 10000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {50000000}
+Total saldo E-Money anda sekarang adalah Rp. 50000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {50000000}
+Total saldo E-Money anda sekarang adalah Rp. 50000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {1000000}
+Total saldo E-Money anda sekarang adalah Rp. 1000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {10000000}
+Total saldo E-Money anda sekarang adalah Rp. 10000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {3000000}
+Total saldo E-Money anda sekarang adalah Rp. 3000000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {500000}
+Total saldo E-Money anda sekarang adalah Rp. 0
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {500000}
+Total saldo E-Money anda sekarang adalah Rp. 0
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {500000}
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {500000}
+Total saldo E-Money anda sekarang adalah Rp. 0
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. {500000}
+Total saldo E-Money anda sekarang adalah Rp. 0
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. 500000
+Total saldo E-Money anda sekarang adalah Rp. 500000
++-----------------------------------------------------+
++----------------------E-Money------------------------+
+Saldo E-Money berhasil ditambahkan sebesar Rp. 7000000
+Total saldo E-Money anda sekarang adalah Rp. 7500000
++-----------------------------------------------------+
++=====================================================+
+|                   TOP UP SALDO                      |
++-----------------------------------------------------+
+Username: bang
+Saldo E-Money berhasil ditambahkan sebesar Rp. 7000000
+Total saldo E-Money anda sekarang adalah Rp. 7000000
++=====================================================+
++=====================================================+
+|                   TOP UP SALDO                      |
++-----------------------------------------------------+
+Username: bang
+Saldo E-Money berhasil ditambahkan sebesar Rp. 7000000
+Total saldo E-Money anda sekarang adalah Rp. 7000000
++=====================================================+
++=====================================================+
+|                   TOP UP SALDO                      |
++-----------------------------------------------------+
+Username: bang
+Saldo E-Money berhasil ditambahkan sebesar Rp. 7000000
+Total saldo E-Money anda sekarang adalah Rp. 14000000
++=====================================================+
++=====================================================+
+|                   TOP UP SALDO                      |
++-----------------------------------------------------+
+Username: bang
+Saldo E-Money berhasil ditambahkan sebesar Rp. 7000000
+Total saldo E-Money anda sekarang adalah Rp. 21000000
++=====================================================+
++=====================================================+
+|                   TOP UP SALDO                      |
++-----------------------------------------------------+
+Username: irene
+Saldo E-Money berhasil ditambahkan sebesar Rp. 1000000
+Total saldo E-Money anda sekarang adalah Rp. 1000000
++=====================================================+
++=====================================================+
+|                   TOP UP SALDO                      |
++-----------------------------------------------------+
+Username: bang
+Saldo E-Money berhasil ditambahkan sebesar Rp. 500000
+Total saldo E-Money anda sekarang adalah Rp. 12320000
++=====================================================+
